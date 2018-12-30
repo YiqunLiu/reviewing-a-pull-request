@@ -4,7 +4,7 @@ A project based learning activity for people who are getting started with Git an
 
 You can play the game [here](https://YiqunLiu.github.io/github-games/)
 
-What am I doing???
+### What am I doing???
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
